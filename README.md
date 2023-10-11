@@ -1,4 +1,4 @@
- [![MasterHead](https://tenor.com/tr/view/welcome-gif-22631679)
+ [![MasterHead](<div class="tenor-gif-embed" data-postid="22631679" data-share-method="host" data-aspect-ratio="1.76796" data-width="100%"><a href="https://tenor.com/view/welcome-gif-22631679">Welcome GIF</a>from <a href="https://tenor.com/search/welcome-gifs">Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">your java dev.</h3>

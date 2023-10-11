@@ -1,4 +1,4 @@
- [![MasterHead](https://images-ext-1.discordapp.net/external/uO1v4_74peZY60MDfZ_5Rvd5rl6PcoUCyw7mc0gXyyk/https/media.tenor.com/7WFpTMdSrKAAAAPo/welcome.mp4)
+ [![MasterHead](https://tenor.com/tr/view/welcome-gif-22631679)
 
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">your java dev.</h3>

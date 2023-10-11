@@ -1,4 +1,4 @@
- ![](https://kratikal.com/blog/wp-content/uploads/2023/06/gif-min.gif)
+                                                                                                    ![](https://kratikal.com/blog/wp-content/uploads/2023/06/gif-min.gif)
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">your java dev.</h3>
 

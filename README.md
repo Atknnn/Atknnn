@@ -1,7 +1,9 @@
-                                                                                                    ![](https://kratikal.com/blog/wp-content/uploads/2023/06/gif-min.gif)
+![](https://kratikal.com/blog/wp-content/uploads/2023/06/gif-min.gif)
+
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B68C5&width=435&lines=WELCOME" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">your java dev.</h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

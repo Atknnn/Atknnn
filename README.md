@@ -1,4 +1,4 @@
- ![](https://images-ext-2.discordapp.net/external/KZmQgnHzKMgW1ww1fFdfowuU0KA_tpxUHLHg26NVFv4/https/media.tenor.com/-Di90vRZ5gAAAAPo/yay.mp4)
+ ![](https://kratikal.com/blog/wp-content/uploads/2023/06/gif-min.gif)
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">your java dev.</h3>
 

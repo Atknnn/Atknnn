@@ -1,5 +1,4 @@
- [![MasterHead](<div class="tenor-gif-embed" data-postid="22631679" data-share-method="host" data-aspect-ratio="1.76796" data-width="100%"><a href="https://tenor.com/view/welcome-gif-22631679">Welcome GIF</a>from <a href="https://tenor.com/search/welcome-gifs">Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
-
+ [![MasterHead](https://images-ext-2.discordapp.net/external/KZmQgnHzKMgW1ww1fFdfowuU0KA_tpxUHLHg26NVFv4/https/media.tenor.com/-Di90vRZ5gAAAAPo/yay.mp4)
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">your java dev.</h3>
 

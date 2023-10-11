@@ -1,4 +1,4 @@
-![](https://kratikal.com/blog/wp-content/uploads/2023/06/gif-min.gif)
+![]([https://kratikal.com/blog/wp-content/uploads/2023/06/gif-min.gif](https://img.wattpad.com/0214a44773547776904e075fc4f98aaadf10ded4/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f746e574744536a4559645f4566673d3d2d313236373834313136332e313731336238303734653330373664303630393633393937343332372e676966))
 
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B68C5&width=435&lines=WELCOME" alt="Typing SVG" /></a>
 
